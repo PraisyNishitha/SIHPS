@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:30-11-2024
+## Register Number:24900090
+## Name:J PRAISY NISHITHA
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,45 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1. Mentorship Portal:Implementation: Use a booking system API (like Calendly) for
+scheduling, paired with a chat feature powered by Firebase.
 
+3. Interactive Forums:Implementation: Use a forum-building tool like Discourse or
+integrate a plugin such as bbPress into WordPress.
+
+5. Achievements Leaderboard:Implementation: Use SQL to calculate and display top
+contributors, achievements, or donations on a leaderboard with dynamic updates.
+
+7. Photo and Media Gallery:Implementation: Set up a gallery plugin (e.g., Lightbox) to
+allow alumni to browse event pictures and videos with categories and filters.
+
+9. Feedback System:Implementation: Add a form with Google Forms or a custom-built
+feedback system storing entries in a backend database.
 
 ## Proposed Solution / Architecture Diagram
+![Screenshot 2024-11-30 084325](https://github.com/user-attachments/assets/941842d3-d6b1-45d8-86e0-a36c79cdf8be)
 
 
 ## Use Cases
+![Screenshot 2024-11-30 084455](https://github.com/user-attachments/assets/327a0fe1-3a1e-474f-a332-9b98d350bc64)
 
 
 ## Technology Stack
+1.Frontend: React.js,Redux,Bootstrap
 
+2.Backend: Node.js,Express.js,GraphQL
+
+3.Database: MongoDB(NoSQL),PostgreSQL(SQL)
+
+4.Authentication: JWT,OAuth2, Passport.js
+
+5.Payment Gateway: Stripe, PayPal
+
+6.Analytics: Google Analytics,Mixpanel,Segment
 
 ## Dependencies
+Time Line: 20 days
 
+Data Collection: 20 days
+
+Budget: Rs.50,000
